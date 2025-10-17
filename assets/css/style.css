@@ -9631,3 +9631,9 @@ Shared List Questions: End
 .text-muted {
     color: #6c757d;
 }
+
+.logo img {
+  width: 230px;
+  height: 80px;
+  object-fit: contain; /* keeps proportions nicely */
+}
